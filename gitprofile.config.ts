@@ -233,6 +233,6 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with ❤️`,
-};
+}
 
 export default config;
